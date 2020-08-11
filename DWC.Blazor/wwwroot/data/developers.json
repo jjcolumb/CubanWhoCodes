@@ -34,5 +34,15 @@
 		"twitter": "https://twitter.com/mato_oniel",
 		"webpage": "",
 		"youtube": ""
+	},
+	{
+		"name": "Hector Yasmany Beltran",
+		"initials": "HYB",
+		"image": "data/devs-pics/hector-yasmany.jpg",
+		"summary": "NET Developer",
+		"skills": "C#,XAF,XPO,Xamarin Forms",
+		"linkedin": "https://www.linkedin.com/in/hector-beltran-5147591a5",
+		"github": "https://github.com/hectoryasmany/"
+
 	}
 ]
